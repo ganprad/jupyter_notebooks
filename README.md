@@ -1,2 +1,2 @@
-# dataquest.io projects:
-A collection of notebooks based on projects I completed at dataquest.io.
+# A collection of notebooks based on projects I have worked on.
+
