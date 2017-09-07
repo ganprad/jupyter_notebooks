@@ -1,2 +1,4 @@
-# A collection of notebooks based on projects I have worked on.
+# Notebook collection:
+A collection of notebooks based on projects I have worked on.
+
 
